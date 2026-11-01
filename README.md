@@ -8,5 +8,6 @@ Privacy policies for Aptoide apps.
 - Mortgage Payoff Date Calculator: https://raw.githubusercontent.com/bradarb8888-alt/app-privacy/main/mortgage.html
 - PlantPing: https://raw.githubusercontent.com/bradarb8888-alt/app-privacy/main/plantping.html
 - TipSnap / Hair Splitter Tipper Divver: https://raw.githubusercontent.com/bradarb8888-alt/app-privacy/main/tipsnap.html
+- CutRecur: https://raw.githubusercontent.com/bradarb8888-alt/app-privacy/main/cutrecur.html
 
 Index: https://raw.githubusercontent.com/bradarb8888-alt/app-privacy/main/index.html
